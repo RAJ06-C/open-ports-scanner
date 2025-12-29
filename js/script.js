@@ -233,8 +233,6 @@
       });
     }
 
-    // If on results page, call loadResultsPage after icons are ready.
-    // results.html already calls loadResultsPage() after lucide.createIcons()
-    // so nothing else needed here.
   });
 })();
+
